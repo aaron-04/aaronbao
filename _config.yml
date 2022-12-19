@@ -1,22 +1,20 @@
 # Site settings
-title: BING Blog   
-SEOTitle: 志兵的博客 | BING blog
+title: Aaron Blog   
+SEOTitle: 天豪的博客 | Aaron blog
 header-img: img/home-bg.jpg
-email: 349039028@qq.com
-description: "前端与设计 Web & Front-End Engineer，这里是李志兵的博客"
-keyword: "李志兵, zhibing, BING，李志兵的博客 博客, 个人网站, 互联网, 前端, 设计, 产品"
-#url: "http://lizhibing.me"              # your host, for absolute URL
-#baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+email: baotianhao0520@gmail.com
+description: "Java学习爱好者，这里是Aaron Bao的博客"
+keyword: "Aaron Bao, Aaron的博客 博客, 个人网站, Java"
 
 
 
 # SNS settings
-RSS: false
-weibo_username:     5131987396
-zhihu_username:     li-zhi-bing-66
-github_username:    Tonnnylee
-#twitter_username:   zhibingpro
-facebook_username:  zhibingpro
+# RSS: false
+# weibo_username:     5131987396
+# zhihu_username:     li-zhi-bing-66
+# github_username:    Tonnnylee
+# #twitter_username:   zhibingpro
+# facebook_username:  zhibingpro
 
 
 
@@ -74,10 +72,10 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 featured-notes: true
 
 
-# Friends
-friends: [
-     {
-         title: "前端外刊评论",
-         href: "http://qianduan.guru/"
-     }
-]
+# # Friends
+# friends: [
+#      {
+#          title: "前端外刊评论",
+#          href: "http://qianduan.guru/"
+#      }
+# ]
